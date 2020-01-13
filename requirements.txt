@@ -1,0 +1,9 @@
+os
+sqlite3
+opencv-python
+telebot
+shutil
+requests
+zipfile
+pillow
+platform
